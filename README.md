@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryaxg
 - 👀 I’m interested in the Field of AI and Robotics
-- 🌱 I’m currently working to get a degree in Computer Science
+- 🌱 I’m currently working to get a degree in Computer Science and Mechanical Engineering
 - 📫 How to reach me: Ryaxg ❀#0001 on Discord
 
 <!---
